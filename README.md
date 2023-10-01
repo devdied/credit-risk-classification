@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit Risk Classification
 **Overview:**
 
 The purpose of this credit risk analysis is to develop a machine learning model that accurately predicts the creditworthiness of borrowers using a dataset of historical lending activity from a peer-to-peer lending services company. The goal is to create a model that can effectively differentiate between "healthy loans" (low risk) and "high-risk loans" based on various features in the dataset.
