@@ -3,6 +3,12 @@
 
 The purpose of this credit risk analysis is to develop a machine learning model that accurately predicts the creditworthiness of borrowers using a dataset of historical lending activity from a peer-to-peer lending services company. The goal is to create a model that can effectively differentiate between "healthy loans" (low risk) and "high-risk loans" based on various features in the dataset.
 
+The model was trained on loan size, interest rate, borrower income, debt to income, number of bank accounts, derogatory marks, total debt, and loan status to predict if the loan is low/high risk.
+
+The distribution of loan status in the dataset-
+* low risk loan -    75036
+* high risk loan -     2500
+
 **Classification Report - Linear Regression Model:**
 
 - **Accuracy:** The initial machine learning model achieves a high accuracy score of 99%, indicating that it correctly classifies nearly all instances in the dataset.
